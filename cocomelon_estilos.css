@@ -1,0 +1,28 @@
+body{background-color: black;
+    color: aliceblue;}
+
+#Titulares{background-color: gray;
+            color: aliceblue;
+            width: 1200px; 
+            height: 200px;
+            position:absolute;
+            left: 50px;
+            top: 40px;}
+
+.primer_parrafo{color: blue;
+font-family: Arial, Helvetica, sans-serif;}
+
+#Texto1{background-color: grey;
+        color: aliceblue;
+        width: 1000px;
+        height: 300px;
+        position: absolute;
+        left: 100px;
+        top: 280px;}
+
+#Video{color: aliceblue;
+        width: 1px;
+        height: 50px;
+        position: absolute;
+        left: 1200px;
+        top: 280px;}
